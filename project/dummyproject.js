@@ -1,0 +1,1 @@
+console.log(`randomly chosen number: 4`);
